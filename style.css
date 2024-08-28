@@ -1,0 +1,13 @@
+#DIV1 {
+    background-color:rgb(111, 66, 153);
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    color: aliceblue;
+}
+
+html {
+    background-color: beige
+}
